@@ -6,7 +6,7 @@ This program does one thing, and one thing only. When it is run, it prints "Hell
 
 When one becomes deeply engrossed in their craft, it can happen that they begin to overlook the basics. In programming, these basics include several menial things such as, "How do I generate an SSH key for GitHub again?" and, "What was that incredible phrase that I'm supposed to print to the terminal when testing literally anything?" Though I've already forgotten the answer to the former, the answer to the latter is a resounding "HELLO WORLD!"
 
-[Software Demo Video (prepare to be amazed)](https://youtu.be/j1iGwswepn0)
+[Software Demo Video (prepare to be amazed)](https://youtu.be/2UDfz4U2HDg)
 
 # Development Environment
 
